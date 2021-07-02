@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="hr.fer.oprpp1.custom.collections.LinkedListIndexedCollection.ListNode"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.utils.ObjectStack"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.code.Attribute.Array"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.UnsupportedOperationException"/>
+    <fullyQualifiedTypeName name="hr.fer.oprpp1.custom.collections.EmptyStackException"/>
+    <fullyQualifiedTypeName name="hr.fer.oprpp1.custom.collections.ObjectStack"/>
+    <fullyQualifiedTypeName name="hr.fer.oprpp1.hw01.ComplexNumber"/>
+    <fullyQualifiedTypeName name="java.lang.Throwable"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalAccessError"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.util.NoSuchElementException"/>
+    <fullyQualifiedTypeName name="java.util.ConcurrentModificationException"/>
+    <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
+    <fullyQualifiedTypeName name="hr.fer.oprpp1.custom.collections.LinkedListIndexedCollection"/>
+    <fullyQualifiedTypeName name="hr.fer.oprpp1.custom.collections.ElementsGetter"/>
+    <fullyQualifiedTypeName name="hr.fer.oprpp1.custom.collections.Collection"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="hr.fer.oprpp1.hw02.prob1.TokenType"/>
+    <fullyQualifiedTypeName name="hr.fer.oprpp1.hw02.prob1.LexerException"/>
+    <fullyQualifiedTypeName name="hr.fer.oprpp1.hw02.prob1.LexerState"/>
+    <fullyQualifiedTypeName name="javax.swing.border.StrokeBorder"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="hr.fer.oprpp1.custom.scripting.elems.Element"/>
+    <fullyQualifiedTypeName name="hr.fer.oprpp1.custom.scripting.parser.SmartScriptParser"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="hr.fer.oprpp1.custom.collections.List"/>
+    <fullyQualifiedTypeName name="javax.management.RuntimeMBeanException"/>
+    <fullyQualifiedTypeName name="hr.fer.oprpp1.custom.scripting.nodes.EchoNode"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="hr.fer.oprpp1.custom.collections.ArrayIndexedCollection"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+</qualifiedTypeNameHistroy>
